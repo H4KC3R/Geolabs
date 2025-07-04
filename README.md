@@ -2,14 +2,14 @@
 
 Решение задачи представлено в файле Поиск NOAA 15 - 19(LAB#1).ipynb
 
-Язык: Python + Jupyter Notebook;
+**Язык: Python + Jupyter Notebook;**
 
 
 Задача #2 l NOAA15 - NOAA19 декодировка необработанных изображений из WAV-файлов.
 
 Решение задачи представлено в файле Data_Processing_from_NOAA_lab2.m
 
-Язык: Matlab;
+**Язык: Matlab;**
 
 
 В папке contents находятся вспомогательные материалы которые используются задачах.
